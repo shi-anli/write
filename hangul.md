@@ -5,3 +5,86 @@ title: "Хангыль — корейский алфавит"
 <h1><b>안녕하세요</b></h1>
 (annyeong haseyo — привет)
 <br>🇰🇷
+<br><b>КОРЕЙСКИЙ АЛФАВИТ:</b><br>
+Согласные:<br>
+<div class="tg-wrap"><table>
+<tbody>
+  <tr>
+    <td>ㄱ(k)</td>
+    <td>ㄲ(kk)</td>
+    <td>ㄴ(n)</td>
+    <td>ㄷ(d)</td>
+  </tr>
+  <tr>
+    <td>ㄹ(l)</td>
+    <td>ㅁ(m)</td>
+    <td>ㅂ(p)</td>
+    <td>ㅅ(s)</td>
+  </tr>
+  <tr>
+    <td>ㅆ(ss)</td>
+    <td>ㅇ(ng)</td>
+    <td>ㅈ(j)</td>
+    <td>ㅊ(ch)</td>
+  </tr>
+  <tr>
+    <td>ㅋ(ḳ)</td>
+    <td>ㅌ(ṭ)</td>
+    <td>ㅍ(p̣)</td>
+    <td>ㅎ(h)</td>
+  </tr>
+</tbody>
+</table></div>
+<br>
+Гласные:<br>
+
+<div class="tg-wrap"><table>
+<tbody>
+  <tr>
+    <td>ㅏ</td>
+    <td>ㅐ</td>
+    <td>ㅑ</td>
+    <td>ㅒ</td>
+    <td>ㅓ</td>
+    <td>ㅔ</td>
+    <td>ㅕ</td>
+    <td>ㅖ</td>
+    <td>ㅗ</td>
+    <td>ㅘ</td>
+    <td>ㅙ</td>
+    <td>ㅚ</td>
+    <td>ㅛ</td>
+    <td>ㅜ</td>
+    <td>ㅝ</td>
+    <td>ㅞ</td>
+    <td>ㅟ</td>
+    <td>ㅠ</td>
+    <td>ㅡ</td>
+    <td>ㅢ</td>
+    <td>ㅣ</td>
+  </tr>
+  <tr>
+    <td>a</td>
+    <td>ae</td>
+    <td>ya</td>
+    <td>yae</td>
+    <td>eo</td>
+    <td>e</td>
+    <td>yeo</td>
+    <td>ye</td>
+    <td>o</td>
+    <td>wa</td>
+    <td>wae</td>
+    <td>oe</td>
+    <td>yo</td>
+    <td>u</td>
+    <td>wo</td>
+    <td>we</td>
+    <td>wi</td>
+    <td>yu</td>
+    <td>eu</td>
+    <td>ui</td>
+    <td>i</td>
+  </tr>
+</tbody>
+</table></div>
