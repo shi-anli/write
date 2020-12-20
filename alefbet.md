@@ -22,7 +22,7 @@ title: "Еврейское письмо"
   <tr>
     <td class="tg-0pky">א</td>
     <td class="tg-0pky">ב</td>
-    <td class="tg-75rw">ג</td>
+    <td class="tg-0pky">ג</td>
     <td class="tg-0pky">ד</td>
     <td class="tg-0pky">ד</td>
     <td class="tg-0pky">ו</td>
